@@ -1,0 +1,25 @@
+﻿## .NET Core / Visual Studio Gitignore
+## Thư mục tạm và file cấu hình cá nhân của Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+
+## Kết quả build / publish
+[Ll]og/
+[Ll]ogs/
+[Ee]xe/
+[Mm]si/
+[Mm]sp/
+[Mm]si.bak/
+
+## File cấu hình người dùng Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Backup / Temp files
+*.bak
+*.cache
+*.opendb
+*.VC.db
